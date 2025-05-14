@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf9d7d37-e373-40dd-afa8-f382cf5a1e6f" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2u6XGR7YootTrAMl0jCKcEKtfaN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Desktop/ppt外加文档文件包/java/JavaEnterment/lib/mysql-connector-j-8.0.32.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/Desktop/ppt外加文档文件包/java/JavaEnterment/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.archetype.catalogs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Zichan">
+    <configuration name="DepreciationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepreciationCalculator" />
+      <module name="JavaEnterment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI" />
+      <module name="JavaEnterment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zichan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zichan" />
+      <module name="JavaEnterment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Zichan" />
+        <item itemvalue="应用程序.DepreciationCalculator" />
+        <item itemvalue="应用程序.UI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cf9d7d37-e373-40dd-afa8-f382cf5a1e6f" name="更改" comment="" />
+      <created>1741569904835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741569904835</updated>
+      <workItem from="1741569906001" duration="2034000" />
+      <workItem from="1741573406732" duration="83000" />
+      <workItem from="1741575383617" duration="622000" />
+      <workItem from="1741683936770" duration="64000" />
+      <workItem from="1741684547130" duration="1090000" />
+      <workItem from="1741688598543" duration="3040000" />
+      <workItem from="1741694038602" duration="3002000" />
+      <workItem from="1741775073034" duration="39000" />
+      <workItem from="1741935675197" duration="3830000" />
+      <workItem from="1742035000229" duration="106000" />
+      <workItem from="1742089884424" duration="2000" />
+      <workItem from="1742090280929" duration="5124000" />
+      <workItem from="1742095662317" duration="2146000" />
+      <workItem from="1742113077180" duration="1020000" />
+      <workItem from="1742177384631" duration="4208000" />
+      <workItem from="1742199574042" duration="44000" />
+      <workItem from="1742202974324" duration="282000" />
+      <workItem from="1742302026647" duration="2000" />
+      <workItem from="1742366740477" duration="98000" />
+      <workItem from="1742726484590" duration="740000" />
+      <workItem from="1742902274871" duration="2164000" />
+      <workItem from="1743308260956" duration="15895000" />
+      <workItem from="1743387676356" duration="5135000" />
+      <workItem from="1743497178289" duration="2000" />
+      <workItem from="1743510146333" duration="37000" />
+      <workItem from="1743559807438" duration="589000" />
+      <workItem from="1743560654375" duration="629000" />
+      <workItem from="1743576743461" duration="2966000" />
+      <workItem from="1743929648391" duration="2289000" />
+      <workItem from="1743932305555" duration="53000" />
+      <workItem from="1743934880324" duration="11000" />
+      <workItem from="1743992271588" duration="619000" />
+      <workItem from="1744183177085" duration="1601000" />
+      <workItem from="1744189748595" duration="8059000" />
+      <workItem from="1744372056172" duration="5029000" />
+      <workItem from="1744445216611" duration="4013000" />
+      <workItem from="1744449273672" duration="2196000" />
+      <workItem from="1744522144115" duration="118000" />
+      <workItem from="1744716831487" duration="3352000" />
+      <workItem from="1744720454405" duration="306000" />
+      <workItem from="1744955154815" duration="2000" />
+      <workItem from="1744978389258" duration="29000" />
+      <workItem from="1744978567776" duration="32000" />
+      <workItem from="1745033649529" duration="236000" />
+      <workItem from="1745050379839" duration="609000" />
+      <workItem from="1745400260601" duration="9441000" />
+      <workItem from="1745490873628" duration="457000" />
+      <workItem from="1745561887968" duration="3801000" />
+      <workItem from="1745669586373" duration="2511000" />
+      <workItem from="1746165469507" duration="3728000" />
+      <workItem from="1746183655854" duration="2124000" />
+      <workItem from="1746933413935" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
